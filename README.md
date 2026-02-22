@@ -23,7 +23,7 @@
 >_ LinkedIn: [linkedin.com/in/ip-singh](https://www.linkedin.com/in/ip-singh/)  
 >_ Website: [ipsingh.net](http://www.ipsingh.net)  
 >_ Email: iphobbes@gmail.com
->_ GIT: https://iphobbes.github.io/
+>_ git.io: [github.io](https://iphobbes.github.io/)
 
 ---
 
