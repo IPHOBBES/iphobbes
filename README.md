@@ -27,4 +27,4 @@
 
 ---
 
->_ *Great tech doesn’t just work — it inspires.*
+>_ *Great tech doesn’t just work >_ it inspires.*
