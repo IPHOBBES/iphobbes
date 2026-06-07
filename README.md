@@ -1,6 +1,6 @@
 # >_ iphobbes
 
->_ Building AV, automation & museum tools with code, media, and clarity.
+>_ Building AV, automation & tools with code, media, and clarity.
 
 ---
 
