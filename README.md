@@ -22,7 +22,7 @@
 
 >_ LinkedIn: [linkedin.com/in/ip-singh](https://www.linkedin.com/in/ip-singh/)  
 >_ Website: [inderstudio.com](https://www.inderstudio.com/)  
->_ Email: iphobbes@gmail.com
+>_ Email: [iphobbes@gmail.com]
 >_ git.io: [github.io](https://iphobbes.github.io/)
 
 ---
